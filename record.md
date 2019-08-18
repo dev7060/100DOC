@@ -4,3 +4,4 @@ day 3: continued working on management application. Deletion functionality now w
 day 4: continued working on management application. Deletion functionality now fully tested using separate exe builds. Plus some fixes done <br>
 day 5: Company management application: Implemented the update previous record fucntionaliy. <br>
 day 6: Management app: started working on backups <br>
+day 7: Management app: worked on saving logs <br>
