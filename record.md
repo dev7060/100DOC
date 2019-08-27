@@ -7,3 +7,4 @@ day 6: Management app: started working on backups <br>
 day 7: Management app: worked on saving logs <br>
 day 8: Management app: worked on reading backups <br>
 day 9: Management app: worked on updating previous records functionality. Earlier only the I.D. could be edited, but now editing function works with every part. <br>
+day 10: Management app: Worked on the UI formatting <br>
