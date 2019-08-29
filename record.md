@@ -9,3 +9,4 @@ day 8: Management app: worked on reading backups <br>
 day 9: Management app: worked on updating previous records functionality. Earlier only the I.D. could be edited, but now editing function works with every part. <br>
 day 10: Management app: Worked on the UI formatting <br>
 day 11: worked on a CLI based typing practice app. <br>
+day 12: Wroked on the typing practice app. Github repo: https://github.com/mbhup/TypMan <br>
