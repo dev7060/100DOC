@@ -11,3 +11,4 @@ day 10: Management app: Worked on the UI formatting <br>
 day 11: worked on a CLI based typing practice app. <br>
 day 12: Wroked on the typing practice app. Github repo: https://github.com/mbhup/TypMan <br>
 day 13: Solved CodeChef problems using C. <br>
+day 14: Started working on a pc optimiser app. Dealt with directories and stuff. <br>
