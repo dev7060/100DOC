@@ -13,3 +13,4 @@ day 12: Wroked on the typing practice app. Github repo: https://github.com/mbhup
 day 13: Solved CodeChef problems using C. <br>
 day 14: Started working on a pc optimiser app. Dealt with directories and stuff. <br>
 day 15: Continued working on the pc optimiser app. Added the functionality of deletion of temporary files. <br>
+day 16: PC optimiser app: Added functionality for the deletion of IE's temporary internet files, cookies, history, form data, passwords, etc. Tried to figure out the same for chrome. <br>
