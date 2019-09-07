@@ -16,3 +16,4 @@ day 15: Continued working on the pc optimiser app. Added the functionality of de
 day 16: PC optimiser app: Added functionality for the deletion of IE's temporary internet files, cookies, history, form data, passwords, etc. Tried to figure out the same for chrome. <br>
 Day 17: PC optimiser app: Added feature: Windows system files Automatic scan and Repair. <br>
 Day 18: PC optimiser app: Added feature: Checking of individual disk drives and fixing errors. Plus option of stopping the running tasks. <br>
+Day 19: PC optimiser app: Tested previous modules plus added the format disk partition feature. <br>
