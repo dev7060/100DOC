@@ -18,3 +18,4 @@ Day 17: PC optimiser app: Added feature: Windows system files Automatic scan and
 Day 18: PC optimiser app: Added feature: Checking of individual disk drives and fixing errors. Plus option of stopping the running tasks. <br>
 Day 19: PC optimiser app: Tested previous modules plus added the format disk partition feature. <br>
 Day 20: PC optimiser app: Add windows services stop feature. <br>
+Day 21: PC optimiser app: Added features: Startup Services stop option + Scan and Install Windows Update through CLI <br>
